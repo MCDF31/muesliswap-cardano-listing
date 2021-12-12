@@ -5,5 +5,18 @@
     "website": "https://hosky.io/", 
     "description": "The Premiere Low-Quality S**t Coin Doggo Meme Token exclusively on the Cardano Ecosystem. We are THE s**t, we are not s**t.",
     "totalSupply": 1000000000000000,
-    "amounts": [1000000,20000000, 50000000, 100000000, 200000000, 1000000000, 2000000000, 5000000000, 10000000000]
+    "amounts": [
+        1000000,
+        20000000,
+        50000000,
+        100000000,
+        200000000,
+        1000000000,
+        2000000000,
+        5000000000,
+        10000000000,
+        20000000000,
+        50000000000,
+        100000000000
+    ]
 }
