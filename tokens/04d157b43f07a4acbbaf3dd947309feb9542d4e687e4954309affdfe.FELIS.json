@@ -1,0 +1,9 @@
+{
+    "policyId": "04d157b43f07a4acbbaf3dd947309feb9542d4e687e4954309affdfe",
+    "name": "FELIS",
+    "symbol": "FELIS",
+    "website": "http://www.twitter.com/felis_corp",
+    "description": "It's like dog coins but it has a cat",
+    "totalSupply": 1000000000,
+    "amounts": [1, 10, 100, 1000, 10000, 100000]
+}
